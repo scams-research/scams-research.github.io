@@ -1,0 +1,40 @@
+---
+layout: default
+---
+
+{{ content }}
+
+{% if site.data.former.size > 0 %}
+
+  {% for person in site.data.former %}
+
+    <table>
+      <tr>
+        <td width=30%>
+          <a href="{{ person.homepage }}">
+            <img src="/assets/img/team/{{ person.image }}">
+          </a>
+        </td>
+        <td>
+          <ul class="link">
+            <li>
+              <a href="{{ person.homepage }}"><b>{{ person.name }}</b></a>
+            </li>
+            <li>
+              {{ person.role }}{% if person.joined.size > 0 %}&nbsp;|&nbsp;{{ person.joined }} &ndash; {{ person.left }}{% endif %}
+            </li>
+            <li>
+              <a href="{{ person.email }}"><i class="fa-solid fa-envelope fa-fw"></i>&nbsp;{{ person.email }}</a>
+            </li>
+            <li>
+              <a href="https://github.com/{{ person.github }}"><i class="fa-brands fa-github fa-fw"></i>&nbsp;{{ person.github }}</a>
+            </li>
+            {% if person.scholar.size > 0 %}<li><a href="{{ person.scholar }}"><i class="fa-solid fa-graduation-cap fa-fw"></i>&nbsp;google scholar</a></li>{% endif %}
+          </ul>
+        </td>
+      </tr>
+    </table>
+
+  {% endfor %}
+
+{% endif %}

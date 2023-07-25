@@ -1,0 +1,66 @@
+---
+layout: default
+---
+
+{{ content }}
+
+<!-- {% if site.data.people.size > 0 %}
+
+  {% for person in site.data.people %}
+
+    <table>
+      <tr>
+        <td width=30%>
+          <a href="{{ person.homepage }}">
+            <img src="/assets/img/team/{{ person.image }}">
+          </a>
+        </td>
+        <td>
+          <ul class="link">
+            <li>
+              <b><a href="{{ person.homepage }}">{{ person.name }}</a></b>
+            </li>
+            <li>
+              {{ person.role }}{% if person.joined.size > 0 %}&nbsp;|&nbsp;Joined {{ person.joined }}{% endif %}
+            </li>
+            <li>
+              <a href="{{ person.email }}"><i class="fa-solid fa-envelope fa-fw"></i>&nbsp;{{ person.email }}</a>
+            </li>
+            <li>
+              <a href="https://github.com/{{ person.github }}"><i class="fa-brands fa-github fa-fw"></i>&nbsp;{{ person.github }}</a>
+            </li>
+            {% if person.scholar.size > 0 %}<li><a href="{{ person.scholar }}"><i class="fa-solid fa-graduation-cap fa-fw"></i>&nbsp;google scholar</a></li>{% endif %}
+          </ul>
+        </td>
+      </tr>
+    </table>
+
+  {% endfor %}
+
+{% endif %} -->
+
+<ul>
+
+{% if site.data.people.size > 0 %}
+
+  {% for person in site.data.people %}
+
+    <li>
+      <b>{% if person.homepage.size > 0 %}<a href="{{ person.homepage }}">{{ person.name }}</a>{% else %}{{ person.name }}{% endif %}</b><br> 
+      {{ person.role }}{% if person.joined.size > 0 %}&nbsp;&ndash;&nbsp;Joined {{ person.joined }}{% endif %} | <a href="{{ person.email }}"><i class="fa-solid fa-envelope fa-fw"></i></a>
+      <a href="https://github.com/{{ person.github }}"><i class="fa-brands fa-github fa-fw"></i></a>
+      {% if person.scholar.size > 0 %}<a href="{{ person.scholar }}"><i class="fa-solid fa-graduation-cap fa-fw"></i></a>{% endif %}
+    </li>
+
+  {% endfor %}
+
+{% endif %}
+
+</ul>
+
+{% if site.data.former.size > 0 %}
+
+<a href="/team/former/">Former Team Members</a>
+<br>
+
+{% endif %}
