@@ -3,6 +3,8 @@ layout: default
 title: Publications
 ---
 
+Here is a list of publication from the SCAMs@bristol group.
+
 {% for pub in site.data.publications reversed %}
   <body>
   <b>
