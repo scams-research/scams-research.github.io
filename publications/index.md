@@ -24,6 +24,10 @@ Here is a list of publication from the SCAMs@bristol group.
     {{ pub.year }}
     {% if pub.paper.size > 0 %}
          &mdash; <a href="{{ pub.paper }}">Paper</a>
+    {% elsif pub.arxiv.size > 0 %}
+        &mdash; <a href="{{ pub.arxiv }}">arXiv</a>
+    {% elsif pub.chemrxiv.size > 0 %}
+        &mdash; <a href="{{ pub.chemrxiv }}">ChemRxiv</a>
     {% endif %}
     {% if pub.thesis.size > 0 %}
          &mdash; <a href="{{ pub.thesis }}">Thesis</a>
@@ -44,10 +48,14 @@ Here is a list of publication from the SCAMs@bristol group.
          | <a href="{{ pub.oer }}">OER</a>
     {% endif %}
     {% if pub.arxiv.size > 0 %}
+       {% if pub.paper.size > 0 %} 
          | <a href="{{ pub.arxiv }}">arXiv</a>
+       {% endif %}
     {% endif %}
     {% if pub.chemrxiv.size > 0 %}
+        {% if pub.paper.size > 0 %}
          | <a href="{{ pub.chemrxiv }}">ChemRxiv</a>
+        {% endif %}
     {% endif %}
     <br>
     {{ pub.authors | join: ", " }}
