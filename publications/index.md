@@ -3,7 +3,7 @@ layout: default
 title: Publications
 ---
 
-Here is a list of publication from the SCAMs@bristol group.
+Here is a list of publication from the SCAMs@bristol group and Andrew.
 
 {% for pub in site.data.publications reversed %}
   <body>
