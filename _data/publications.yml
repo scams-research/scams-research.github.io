@@ -248,7 +248,9 @@
   caption: The opinion of the ORSO members on how best to share results from Bayesian sampling.
 - title:  Nature of the Superionic Transition of Lithium Nitride from Machine Learning Force Fields
   journal: Chem. Mater.
-  pages: Accepted
+  volume: 35
+  issue: 15
+  pages: 6133
   year: 2023
   authors:
       - Gabriel Krenzer
