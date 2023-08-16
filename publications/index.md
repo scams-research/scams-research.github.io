@@ -29,6 +29,9 @@ Here is a list of publication from the SCAMs@bristol group and Andrew.
     {% elsif pub.chemrxiv.size > 0 %}
         &mdash; <a href="{{ pub.chemrxiv }}">ChemRxiv</a>
     {% endif %}
+    {% elsif pub.preprint.size > 0 %}
+        &mdash; <a href="{{ pub.preprint }}">Preprint</a>
+    {% endif %}
     {% if pub.thesis.size > 0 %}
          &mdash; <a href="{{ pub.thesis }}">Thesis</a>
     {% endif %}

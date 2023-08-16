@@ -290,6 +290,7 @@
       - Alexander G. Squires
       - Samuel W. Coles
       - Benjamin J. Morgan
+  preprint: https://github.com/bjmorgan/kinisi/blob/master/paper/paper.md
   code: https://github.com/bjmorgan/kinisi
   docs: https://kinisi.readthedocs.io/
   caption: A Python package for estimating diffusion properties from molecular dynamics simulations.
