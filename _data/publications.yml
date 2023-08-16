@@ -91,8 +91,7 @@
   data: https://doi.org/10.15125/BATH-00586
   arxiv: https://arxiv.org/abs/1901.05514
   caption: Comparing different molecular dynamics potential models to improve reflectometry analysis.
-- date: 2020-06-05
-  title: "uravu: Making Bayesian modelling easy(er)"
+- title: "uravu: Making Bayesian modelling easy(er)"
   journal: J. Open Source Softw.
   volume: 5
   issue: 50
@@ -283,3 +282,14 @@
   data: https://doi.org/10.5072/zenodo.1206872
   arxiv: https://arxiv.org/abs/2305.18244
   caption: Using a physics-informed statistical model to efficiently estimate diffusion and accurately quantify uncertainty.
+- title: "kinisi: Accuracy and uncertainty quantification in diffusion"
+  journal: Submitted
+  year: 2022
+  authors:
+      - Andrew R. McCluskey*
+      - Alexander G. Squires
+      - Samuel W. Coles
+      - Benjamin J. Morgan
+  code: https://github.com/bjmorgan/kinisi
+  docs: https://kinisi.readthedocs.io/
+  caption: A Python package for estimating diffusion properties from molecular dynamics simulations.
