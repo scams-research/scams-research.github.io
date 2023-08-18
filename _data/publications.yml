@@ -282,7 +282,7 @@
   data: https://doi.org/10.5072/zenodo.1206872
   arxiv: https://arxiv.org/abs/2305.18244
   caption: Using a physics-informed statistical model to efficiently estimate diffusion and accurately quantify uncertainty.
-- title: "kinisi: Accuracy and uncertainty quantification in diffusion"
+- title: "kinisi: Bayesian analysis of mass transport from molecular dynamics simulations"
   journal: Submitted
   year: 2023
   authors:
