@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Data Skills for Chemists!
-date: 2023-08-14
+date: 2023-10-09
 author: Andrew
 ---
 
