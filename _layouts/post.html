@@ -5,10 +5,8 @@ layout: default
 <small>
 From: {{ page.date | date: "%Y-%m-%-d" }}</small>
 {% if page.updated %}
-  <small>&nbsp;|&nbsp;Updated: {{ page.updated | date: "%Y-%m-%-d" }}</small>
+  <small>&nbsp;|&nbsp;Updated: {{ page.updated | date: "%Y-%m-%-d" }} | Author: {{ page.author }}</small>
 {% endif %}
 <br><br>
-
-<!-- <p class="view"><a href="{ page.author-homepage }"{{ page.author | default: site.author }}</p> -->
 
 {{content}}
