@@ -296,3 +296,23 @@
   code: https://github.com/bjmorgan/kinisi
   docs: https://kinisi.readthedocs.io/
   caption: A Python package for estimating diffusion properties from molecular dynamics simulations.
+- title: The First European Spallation Source Data Management and Software Centre Summer School
+  journal: Submitted
+  year: 2023
+  authors:
+      - Andrew R. McCluskey*
+      - Petra Aulin
+      - Fredrik Bolmsten
+      - Mads Bertelsen
+      - Carina M. C. Lobley
+      - Joanna Lewis
+      - Massimiliano Novelli
+      - Cosmina Somani
+      - Alexandre Stefanov
+      - Martin Trajanovski
+      - Neil Vaytet
+      - Peter K. Willendrup
+      - Jan-Lukas Wynen
+      - Sunyoung Yoo
+      - Thomas Holm Rod*
+  caption: A description of the DMSC Summer School
