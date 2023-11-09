@@ -290,6 +290,7 @@
   authors:
       - Andrew R. McCluskey*
       - Alexander G. Squires
+      - Josh Dunn
       - Samuel W. Coles
       - Benjamin J. Morgan*
   preprint: https://github.com/bjmorgan/kinisi/blob/master/paper/paper.md
