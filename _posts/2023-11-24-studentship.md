@@ -1,9 +1,11 @@
 ---
 layout: post
-title: "PhD Studentship: Describing Chemical Simulation with a Bayesian Worldview"
+title: PhD Funding Available
 date: 2023-11-24
 author: Andrew
 ---
+
+**Project Title: Describing Chemical Simulation with a Bayesian Worldview**
 
 Analysis of experimental techniques is becoming increasingly reliant on computational chemical simulations. 
 However, our simulations often fail to cover experimental timescales, meaning that we often extrapolate our conclusions in the hope that our simulations represent the real system. 
