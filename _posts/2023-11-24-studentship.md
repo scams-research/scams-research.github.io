@@ -6,7 +6,7 @@ author: Andrew
 ---
 
 There is funding to support a PhD studentship in SCAMs@bristol starting next academic year. 
-More information below about how to get in touch if you are interested. 
+More information about how to get in touch if you are interested is available below. 
 
 **Project Title: Describing Chemical Simulation with a Bayesian Worldview**
 
@@ -24,5 +24,5 @@ In addition to learning valuable computational chemistry and mathematical modell
 There will also be opportunities to collaborate with experimental colleagues from large-scale neutron and X-ray scattering facilities, such as Diamond Light Source, ISIS Neutron and Muon Source and the European Spallation Source. 
 
 The successful candidate will be curious and excited to apply novel mathematical methods to physical systems and should hold (or be predicted to achieve) a First or Upper Second class degree in Chemistry, Physics, Chemical Physics or a related area. 
-The PhD studentship, for a September 2024 start, is fully funded with a stipend to cover living costs at the level set by UKRI for UK applicants and EU citizens with settled status. 
+For a September 2024 start, the PhD studentship is fully funded with a stipend to cover living costs at the level set by UKRI for UK applicants and EU citizens with settled status. 
 Interested applicants are invited to contact Dr Andrew McCluskey [andrew.mccluskey@bristol.ac.uk](mailto:andrew.mccluskey@bristol.ac.uk) for further details.
