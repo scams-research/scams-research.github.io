@@ -3,7 +3,7 @@ layout: default
 ---
 
 <small>
-From: {{ page.date | date: "%Y-%m-%-d" }}&nbsp;|&nbsp;Author: {{ page.author }}</small>
+From: {{ page.date | date: "%Y-%m-%-d" }}&nbsp;|&nbsp;Author: <a href="/team/">{{ page.author }}</a></small>
 {% if page.updated %}
   <small>&nbsp;|&nbsp;Updated: {{ page.updated | date: "%Y-%m-%-d" }}</small>
 {% endif %}
