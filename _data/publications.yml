@@ -265,10 +265,13 @@
 - title:  Is there still a place for linearization in the chemistry curriculum?
   journal: J. Chem. Educ.
   pages: Accepted
+  volume: 100
+  issue: 11
+  pages: 4714
   year: 2023
   authors:
       - Andrew R. McCluskey*
-  paper: 10.1021/acs.jchemed.3c00466
+  paper: https://doi.org/10.1021/acs.jchemed.3c00466
   esi: https://github.com/arm61/linearization-issues
   data: https://doi.org/10.5281/zenodo.7949905
   chemrxiv: https://doi.org/10.26434/chemrxiv-2023-44b29-v2
@@ -290,9 +293,30 @@
   authors:
       - Andrew R. McCluskey*
       - Alexander G. Squires
+      - Josh Dunn
       - Samuel W. Coles
       - Benjamin J. Morgan*
   preprint: https://github.com/bjmorgan/kinisi/blob/master/paper/paper.md
   code: https://github.com/bjmorgan/kinisi
   docs: https://kinisi.readthedocs.io/
   caption: A Python package for estimating diffusion properties from molecular dynamics simulations.
+- title: The First European Spallation Source Data Management and Software Centre Summer School
+  journal: Submitted
+  year: 2023
+  authors:
+      - Andrew R. McCluskey*
+      - Petra Aulin
+      - Fredrik Bolmsten
+      - Mads Bertelsen
+      - Carina M. C. Lobley
+      - Joanna Lewis
+      - Massimiliano Novelli
+      - Cosmina Somani
+      - Alexandre Stefanov
+      - Martin Trajanovski
+      - Neil Vaytet
+      - Peter K. Willendrup
+      - Jan-Lukas Wynen
+      - Sunyoung Yoo
+      - Thomas Holm Rod*
+  caption: A description of the DMSC Summer School
