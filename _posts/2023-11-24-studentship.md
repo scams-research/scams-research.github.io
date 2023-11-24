@@ -1,9 +1,12 @@
 ---
 layout: post
-title: PhD Funding Available
+title: PhD Funding Available!
 date: 2023-11-24
 author: Andrew
 ---
+
+There is funding to support a PhD studentship in SCAMs@bristol starting next academic year. 
+More information below about how to get in touch if you are interested. 
 
 **Project Title: Describing Chemical Simulation with a Bayesian Worldview**
 
