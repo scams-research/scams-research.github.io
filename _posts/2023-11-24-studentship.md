@@ -25,4 +25,4 @@ There will also be opportunities to collaborate with experimental colleagues fro
 
 The successful candidate will be curious and excited to apply novel mathematical methods to physical systems and should hold (or be predicted to achieve) a First or Upper Second class degree in Chemistry, Physics, Chemical Physics or a related area. 
 For a September 2024 start, the PhD studentship is fully funded with a stipend to cover living costs at the level set by UKRI for UK applicants and EU citizens with settled status. 
-Interested applicants are invited to contact Dr Andrew McCluskey [andrew.mccluskey@bristol.ac.uk](mailto:andrew.mccluskey@bristol.ac.uk) for further details.
+Interested applicants are invited to contact Dr Andrew McCluskey ([andrew.mccluskey@bristol.ac.uk](mailto:andrew.mccluskey@bristol.ac.uk)) for further details.
