@@ -24,5 +24,5 @@ In addition to learning valuable computational chemistry and mathematical modell
 There will also be opportunities to collaborate with experimental colleagues from large-scale neutron and X-ray scattering facilities, such as Diamond Light Source, ISIS Neutron and Muon Source and the European Spallation Source. 
 
 The successful candidate will be curious and excited to apply novel mathematical methods to physical systems and should hold (or be predicted to achieve) a First or Upper Second class degree in Chemistry, Physics, Chemical Physics or a related area. 
-For a September 2024 start, the PhD studentship is fully funded with a stipend to cover living costs at the level set by UKRI for UK applicants and EU citizens with settled status. 
+For a September 2024 start, the 3.5 year PhD studentship is fully funded with a stipend to cover living costs at the level set by UKRI for UK applicants and EU citizens with settled status  (international students may be eligible to apply for a University of Bristol PGR Scholarship). 
 Interested applicants are invited to contact Dr Andrew McCluskey ([andrew.mccluskey@bristol.ac.uk](mailto:andrew.mccluskey@bristol.ac.uk)) for further details.
