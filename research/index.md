@@ -25,7 +25,7 @@ The former may be achieved experimentally with improved instrumentation or *in-s
 However, we believe that significant improvements can be made to the measurement-analysis workflow by improving how we analyse our data. 
 
 The research aim of the {{ site.title }} group is to develop powerful analysis methods for data from chemical measurements, by including what we already know about the world &mdash; some may call this *physics-informed* modelling. 
-We believe that the next generation of data analysis will be built on an understanding of the fundamental chemistry and physics of the systems of interest. 
+We believe that the next generation of data analysis, using machine learning and quantum computing, will be built on an understanding of the fundamental chemistry and physics of the systems of interest. 
 
 ## Projects
 
