@@ -20,18 +20,18 @@ sidebar:
   - name: teaching
     icon: fa-solid fa-chalkboard-user
     link: /teaching/
-  - name: code
-    icon: fa-solid fa-code
-    link: /code/
-  - name: links
-    icon: fa-solid fa-link
-    link: /links/
   - name: news
     icon: fa-solid fa-newspaper
     link: /news/
   - name: publications
     icon: fa-solid fa-book
     link: /publications/
+  - name: code
+    icon: fa-solid fa-code
+    link: /code/
+  - name: links
+    icon: fa-solid fa-link
+    link: /links/
   - name: contact
     icon: fa-solid fa-at
     link: /contact/
