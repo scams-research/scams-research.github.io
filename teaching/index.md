@@ -11,4 +11,4 @@ From 2019-2022, Andrew was a visiting lecturer in the [Department of Chemistry](
 
 ## References
 
-[^1]: A. R. McCluskey. 2023. Available on ChemRxiv: [10.26434/chemrxiv-2023-44b29](https://doi.org/10.26434/chemrxiv-2023-44b29).
+[^1]: A. R. McCluskey. *J. Chem. Educ.*, **100**(11), 4714, 2023. DOI: [10.1021/acs.jchemed.3c00466](https://doi.org/10.1021/acs.jchemed.3c00466).
