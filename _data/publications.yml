@@ -297,19 +297,9 @@
       - Sunyoung Yoo
       - Thomas Holm Rod*
   caption: A description of the DMSC Summer School.
-- title: Accurate Estimation of Diffusion Coefficients and their Uncertainties from Computer Simulation
-  journal: Submitted
-  year: 2024
-  authors:
-      - Andrew R. McCluskey*
-      - Samuel W. Coles
-      - Benjamin J. Morgan*
-  esi: https://github.com/arm61/msd-errors
-  data: https://doi.org/10.5072/zenodo.1206872
-  arxiv: https://arxiv.org/abs/2305.18244
-  caption: Using a physics-informed statistical model to efficiently estimate diffusion and accurately quantify uncertainty.
 - title: "kinisi: Bayesian analysis of mass transport from molecular dynamics simulations"
-  journal: Submitted
+  journal: J. Open Source Softw.
+  pages: Accepted
   year: 2024
   authors:
       - Andrew R. McCluskey*
@@ -321,3 +311,14 @@
   code: https://github.com/bjmorgan/kinisi
   docs: https://kinisi.readthedocs.io/
   caption: A Python package for estimating diffusion properties from molecular dynamics simulations.
+- title: Accurate Estimation of Diffusion Coefficients and their Uncertainties from Computer Simulation
+  journal: Submitted
+  year: 2024
+  authors:
+      - Andrew R. McCluskey*
+      - Samuel W. Coles
+      - Benjamin J. Morgan*
+  esi: https://github.com/arm61/msd-errors
+  data: https://doi.org/10.5072/zenodo.1206872
+  arxiv: https://arxiv.org/abs/2305.18244
+  caption: Using a physics-informed statistical model to efficiently estimate diffusion and accurately quantify uncertainty.
