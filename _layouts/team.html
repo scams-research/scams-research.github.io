@@ -50,7 +50,8 @@ layout: default
       {{ person.role }}{% if person.joined.size > 0 %}&nbsp;&ndash;&nbsp;Joined {{ person.joined }}{% endif %} | <a href="mailto:{{ person.email }}"><i class="fa-solid fa-envelope fa-fw"></i></a>
       <a href="https://github.com/{{ person.github }}"><i class="fa-brands fa-github fa-fw"></i></a>
       {% if person.scholar.size > 0 %}<a href="{{ person.scholar }}"><i class="fa-solid fa-graduation-cap fa-fw"></i></a>{% endif %} | 
-      {% if person.office.size > 0 %}<a href="{{ person.office-link }}">{{ person.office }}</a>{% endif %}
+      {% if person.office.size > 0 %}<a href={% if person.office-link.size == 0 %}"https://maps.app.goo.gl/oxxnz78nM16dp9eo8"{% else %}"{{ person.office-link }}"{% endif %}>
+        {{ person.office }}</a>{% endif %}
     </li>
 
   {% endfor %}
