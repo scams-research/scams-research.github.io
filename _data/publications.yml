@@ -264,7 +264,6 @@
   caption: Investigations in superionic behaviour of lithiun nitride, quantified with non-Arrhenius diffusion. 
 - title:  Is there still a place for linearization in the chemistry curriculum?
   journal: J. Chem. Educ.
-  pages: Accepted
   volume: 100
   issue: 11
   pages: 4714
@@ -273,7 +272,7 @@
       - Andrew R. McCluskey*
   paper: https://doi.org/10.1021/acs.jchemed.3c00466
   esi: https://github.com/arm61/linearization-issues
-  data: https://doi.org/10.5281/zenodo.7949905
+  data: https://doi.org/10.5281/zenodo.8227867
   chemrxiv: https://doi.org/10.26434/chemrxiv-2023-44b29-v2
   caption: A commentary questioning the role of linearization in an undergraduate chemistry education.
 - title: The First European Spallation Source Data Management and Software Centre Summer School
