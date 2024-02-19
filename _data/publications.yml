@@ -275,6 +275,22 @@
   data: https://doi.org/10.5281/zenodo.8227867
   chemrxiv: https://doi.org/10.26434/chemrxiv-2023-44b29-v2
   caption: A commentary questioning the role of linearization in an undergraduate chemistry education.
+- title: "kinisi: Bayesian analysis of mass transport from molecular dynamics simulations"
+  journal: J. Open Source Softw.
+  volume: 9
+  issue: 94
+  pages: 5984
+  year: 2024
+  authors:
+      - Andrew R. McCluskey*
+      - Alexander G. Squires
+      - Josh Dunn
+      - Samuel W. Coles
+      - Benjamin J. Morgan*
+  paper: https://doi.org/10.21105/joss.05984
+  code: https://github.com/bjmorgan/kinisi
+  docs: https://kinisi.readthedocs.io/
+  caption: A Python package for estimating diffusion properties from molecular dynamics simulations.
 - title: The First European Spallation Source Data Management and Software Centre Summer School
   journal: Neutron News
   pages: Accepted
@@ -296,20 +312,6 @@
       - Sunyoung Yoo
       - Thomas Holm Rod*
   caption: A description of the DMSC Summer School.
-- title: "kinisi: Bayesian analysis of mass transport from molecular dynamics simulations"
-  journal: J. Open Source Softw.
-  pages: Accepted
-  year: 2024
-  authors:
-      - Andrew R. McCluskey*
-      - Alexander G. Squires
-      - Josh Dunn
-      - Samuel W. Coles
-      - Benjamin J. Morgan*
-  preprint: https://github.com/bjmorgan/kinisi/blob/master/paper/paper.md
-  code: https://github.com/bjmorgan/kinisi
-  docs: https://kinisi.readthedocs.io/
-  caption: A Python package for estimating diffusion properties from molecular dynamics simulations.
 - title: Accurate Estimation of Diffusion Coefficients and their Uncertainties from Computer Simulation
   journal: Submitted
   year: 2024
