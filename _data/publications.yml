@@ -323,3 +323,12 @@
   data: https://doi.org/10.5072/zenodo.1206872
   arxiv: https://arxiv.org/abs/2305.18244
   caption: Using a physics-informed statistical model to efficiently estimate diffusion and accurately quantify uncertainty.
+- title: Investigating model influence on the analytical resolution of neutron reflectometry
+  journal: Preprint
+  year: 2024
+  authors:
+      - Nicolas Shiaelis*
+      - Luke A. Clifton
+      - Andrew R. McCluskey*
+  arxiv: https://arxiv.org/abs/2403.13566
+  caption: Looking at the impact the defining an analytical model has on the analysis of neutron reflecometry.
