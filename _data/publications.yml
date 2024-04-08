@@ -293,7 +293,9 @@
   caption: A Python package for estimating diffusion properties from molecular dynamics simulations.
 - title: The First European Spallation Source Data Management and Software Centre Summer School
   journal: Neutron News
-  pages: Accepted
+  volume: 35
+  issue: 1
+  pages: 1
   year: 2024
   authors:
       - Andrew R. McCluskey*
