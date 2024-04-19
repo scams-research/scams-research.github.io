@@ -339,12 +339,12 @@
   journal: Submitted
   year: 2024
   authors:
-      - Josh Dunn
+      - Josh Dunn*
       - Joe M. Crossley-Lewis
       - Andrew R. McCluskey
       - Fiona Jackson
       - Corneliu Buda
       - Glenn Sunley
       - Adrian J. Mulholland
-      - Neil L. Allan*
+      - Neil L. Allan
   caption: Investigation of methanol and promoter diffusion in an industrial zeolite material. 
