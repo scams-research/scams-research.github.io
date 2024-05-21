@@ -2,6 +2,7 @@
   github: https://github.com/bjmorgan/kinisi
   docs: https://kinisi.readthedocs.io
   description: implementes a robust methodology for the quantification of in-silico diffusion.
+  doi: 10.21105/joss.05984
 - name: uravu
   github: https://github.com/arm61/uravu
   docs: https://uravu.readthedocs.io
