@@ -315,6 +315,21 @@
       - Thomas Holm Rod*
   caption: A description of the DMSC Summer School.
   paper: https://doi.org/10.1080/10448632.2024.2331387
+- title: Diffusion Mechanisms and Preferential Dynamics of Promoter Molecules in ZSM-5 Zeolite
+  year: 2024
+  journal: Catal. Sci. Technol.
+  pages: Accepted
+  authors:
+      - Josh Dunn*
+      - Joe M. Crossley-Lewis
+      - Andrew R. McCluskey
+      - Fiona Jackson
+      - Corneliu Buda
+      - Glenn Sunley
+      - Adrian J. Mulholland
+      - Neil L. Allan*
+  chemrxiv: https://doi.org/10.26434/chemrxiv-2024-r3lpq-v2
+  caption: Investigation of methanol and promoter diffusion in an industrial zeolite material. 
 - title: Accurate Estimation of Diffusion Coefficients and their Uncertainties from Computer Simulation
   journal: Submitted
   year: 2024
@@ -334,19 +349,4 @@
       - Luke A. Clifton
       - Andrew R. McCluskey*
   arxiv: https://arxiv.org/abs/2403.13566
-  caption: Looking at the impact the defining an analytical model has on the analysis of neutron reflecometry.
-- title: Diffusion Mechanisms and Preferential Dynamics of Promoter Molecules in ZSM-5 Zeolite
-  year: 2024
-  journal: Catal. Sci. Technol.
-  pages: Accepted
-  authors:
-      - Josh Dunn*
-      - Joe M. Crossley-Lewis
-      - Andrew R. McCluskey
-      - Fiona Jackson
-      - Corneliu Buda
-      - Glenn Sunley
-      - Adrian J. Mulholland
-      - Neil L. Allan*
-  chemrxiv: https://doi.org/10.26434/chemrxiv-2024-r3lpq-v2
-  caption: Investigation of methanol and promoter diffusion in an industrial zeolite material. 
+  caption: Looking at the impact the defining an analytical model has on the analysis of neutron reflecometry. 
