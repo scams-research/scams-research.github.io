@@ -14,12 +14,14 @@
   joined: April 2024
   office: W224
   office-link: https://maps.app.goo.gl/oxxnz78nM16dp9eo8
-# - name: Max T. D. R. Dolan
-#   role: MSc Student
-#   email: vr20578@bristol.ac.uk
-#   homepage: https://uk.linkedin.com/in/max-dolan-00b089225
-#   github: maximillian-dolan
-#   joined: June 2024
+- name: Max T. D. R. Dolan
+  role: MSc Project Student
+  email: vr20578@bristol.ac.uk
+  homepage: https://uk.linkedin.com/in/max-dolan-00b089225
+  github: maximillian-dolan
+  office: W224
+  office-link: https://maps.app.goo.gl/oxxnz78nM16dp9eo8
+  joined: June 2024
 # - name: Harry S. G. Richardson
 #   role: PhD Student
 #   email: aaaa@bristol.ac.uk
