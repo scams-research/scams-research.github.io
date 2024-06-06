@@ -43,6 +43,7 @@ layout: default
 
 {% if site.data.people.size > 0 %}
 
+  {% paginate by 5 %}
   {% for person in site.data.people %}
 
     <li>
@@ -54,7 +55,8 @@ layout: default
     </li>
 
   {% endfor %}
-
+    {{ paginate | default_pagination: next: 'Older', previous: 'Newer' }}
+  {%- endpaginate -%}
 {% endif %}
 
 </ul>
