@@ -102,6 +102,11 @@ ul li + li {
   margin-top: 6px;
 }
 
+// Special margin spacing for the team list.
+li.team {
+  margin-bottom: 1em;
+}
+
 ul:last-child {
   margin-bottom: 6px;
 }
