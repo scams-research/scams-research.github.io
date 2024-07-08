@@ -10,3 +10,5 @@ Research in the {{ site.title }} group focuses on developing physics-informed an
 We work closely with national and international neutron and x-ray scattering facilities to develop analysis approaches that maximise the information obtained from a scattering experiment. 
 
 We are also keen to collaborate on chemical data analysis projects outside of the scattering domain, so please feel free to [get in touch](./contact/).
+
+<a href="/assets/img/group-poster.pdf"><img src="/assets/img/group-poster.pdf" width="100%"></a>
