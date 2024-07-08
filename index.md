@@ -11,6 +11,4 @@ We work closely with national and international neutron and x-ray scattering fac
 
 We are also keen to collaborate on chemical data analysis projects outside of the scattering domain, so please feel free to [get in touch](./contact/).
 
-## Group Poster
-
 <a href="/assets/img/group-poster.pdf"><img src="/assets/img/group-poster.pdf" width="100%"></a>
