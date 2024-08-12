@@ -5,7 +5,7 @@ date: 2024-08-12
 author: Andrew
 ---
 
-Back at the end of June (just before going on holiday to Spain, hence the shorts), Andrew was asked to present at a [Reproducibility by Design](https://www.reproducibilitybydesign.com) seminar in the Faculty of Health and Life Sciences at the University of Bristol. 
+Back at the end of June (just before going on holiday to Spain, hence the shorts), Andrew was asked to present at a [Reproducibility by Design](https://www.reproducibilitybydesign.com) symposium in the Faculty of Health and Life Sciences at the University of Bristol. 
 He used this opportunity to talk about [showyourwork](https://show-your.work/en/latest/) and the importance of computational reproducibility; this presentation is available as a video on YouTube (embedded below). 
 
 <center>
