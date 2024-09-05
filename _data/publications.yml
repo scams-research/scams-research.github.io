@@ -335,7 +335,9 @@
   paper: https://doi.org/10.1039/D4CY00506F
 - title: Digital Skills in Chemical Education
   journal: Nat. Chem.
-  pages: Accepted
+  volume: 16
+  issue: 9
+  pages: 1383
   year: 2024
   authors:
       - Andrew R. McCluskey*
