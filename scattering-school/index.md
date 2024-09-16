@@ -16,4 +16,4 @@ Specific areas that will be covered include:
 
 The school is being organised by the SCAMs@bristol research group in conjunction with Diamond Light Source and ISIS Neutron and Muon Source. 
 
-The event is free to attend but places are limited, registrations will open on the *2nd September 2024*. 
+The event is free to attend but places are limited, [register here](https://forms.gle/u2aJh5zLNrrVkDZR6). 
