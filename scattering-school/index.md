@@ -14,14 +14,14 @@ The aim of this school is to introduce small-angle scattering and reflectometry 
 ### 23rd October 2024
 
 | Arrivals and Registration        | 1200-1300 |
-| Programming 1 (ARM & TS)         | 1300-1500 |
+| Programming 1                    | 1300-1500 |
 | Break.                           | 1500-1530 |
-| Programming 2 (ARM & TS)         | 1530-1730 |
+| Programming 2                    | 1530-1730 |
 
 ### 24th October 2024
 
 | Arrivals                         | 0930-1000 |
-| Basics of scattering (AS & JD)   | 1000-1200 |
+| Basics of scattering             | 1000-1200 |
 | Lunch Break                      | 1200-1300 |
 | Introduction to facilities       | 1300-1400 |
 | Reflectometry Analysis           | 1400-1500 |
