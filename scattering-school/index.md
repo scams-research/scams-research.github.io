@@ -13,10 +13,10 @@ The aim of this school is to introduce small-angle scattering and reflectometry 
 
 ### 23rd October 2024
 
-| Arrivals and Registration  | 1200-1300 |
-| Programming 1 (ARM & TS)   | 1300-1500 |
-| Break.                     | 1500-1530 |
-| Programming 2 (ARM & TS)   | 1530-1730 |
+| Arrivals and Registration        | 1200-1300 |
+| Programming 1 (ARM & TS)         | 1300-1500 |
+| Break.                           | 1500-1530 |
+| Programming 2 (ARM & TS)         | 1530-1730 |
 
 ### 24th October 2024
 
@@ -30,11 +30,9 @@ The aim of this school is to introduce small-angle scattering and reflectometry 
 
 ### 25th October 2024
 
-|-----------------------------|-----------|
-| Arrivals                    | 0930-1000 |
-| Q & A session, data surgery | 1000-1200 |
-| Close.                      | 1200      |
-|-----------------------------|-----------|
+| Arrivals                         | 0930-1000 |
+| Q & A session, data surgery      | 1000-1200 |
+| Close                            | 1200      |
 
 The school is being organised by the SCAMs@bristol research group in conjunction with Diamond Light Source and ISIS Neutron and Muon Source. 
 
