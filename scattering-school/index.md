@@ -9,7 +9,7 @@ title: Bristol/Diamond/ISIS Scattering School
 We are excited to announce the **Bristol/Diamond/ISIS Scattering School**, to take place from the 23rd to the 25th of October 2024 at the University of Bristol School of Chemistry.
 The aim of this school is to introduce small-angle scattering and reflectometry (covering both neutrons and X-rays) and focus on the analysis of these measurements, looking at scripting and chemical simulation for analysis. 
 
-## Timetable
+## Timetable
 
 ### 23rd October 2024
 
