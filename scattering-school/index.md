@@ -6,6 +6,8 @@ title: Bristol/Diamond/ISIS Scattering School
 ![Drawings of the Wills Memorial building, Diamond Light Source and ISIS Neutron and Muon Source](/assets/img/bdi.png)
 <br>
 
+**Unforunately, the Bristol/Diamond/ISIS Scattering School has been cancelled. We apologise for any disappointment.**
+
 We are excited to announce the **Bristol/Diamond/ISIS Scattering School**, to take place from the 23rd to the 25th of October 2024 at the University of Bristol School of Chemistry.
 The aim of this school is to introduce small-angle scattering and reflectometry (covering both neutrons and X-rays) and focus on the analysis of these measurements, looking at scripting and chemical simulation for analysis. 
 
