@@ -14,8 +14,8 @@ layout: default
         <b>{% if person.homepage.size > 0 %}<a href="{{ person.homepage }}">{{ person.name }}</a>{% else %}{{ person.name }}{% endif %}</b><br> 
         {{ person.role }}{% if person.joined.size > 0 %}&nbsp;&ndash;&nbsp;{{ person.joined }}{% endif %}{% if person.left.size > 0 %}/{{ person.left }}{% endif %} |
         {% if person.github.size > 0 %}<a href="https://github.com/{{ person.github }}"><i class="fa-brands fa-github fa-fw"></i></a>{% endif %}
-        {% if person.scholar.size > 0 %}<a href="{{ person.scholar }}"><i class="fa-solid fa-graduation-cap fa-fw"></i></a>{% endif %} | 
-        {% if person.now.size > 0 %} {{ person.now }} {% endif %}
+        {% if person.scholar.size > 0 %}<a href="{{ person.scholar }}"><i class="fa-solid fa-graduation-cap fa-fw"></i></a>{% endif %}
+        {% if person.now.size > 0 %}<br> Now: {{ person.now }} {% endif %}
         {% if person.cosupervisors.size > 0 %}<br><small>Co-supervised with {{ person.cosupervisors }}</small>{% endif %}
       </li>
   
