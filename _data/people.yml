@@ -40,7 +40,7 @@
 - name: Pepe
   role: Official SCAMs@bristol Mascot
   joined: Jan. 2025
-  homepage: /assets/img/pepe.png
+  homepage: ./pepe.html
   cosupervisors: Ioli Howard
 # - name: Joe D. Bloggs
 #   role: PhD Student
