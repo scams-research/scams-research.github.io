@@ -348,7 +348,9 @@
   caption: A comment on the importance of digital training in the chemistry undergraduate. 
 - title: Accurate Estimation of Diffusion Coefficients and their Uncertainties from Computer Simulation
   journal: J. Chem. Theory Comput.
-  pages: Accepted
+  volume: 21
+  issue: 1
+  pages: 79
   year: 2024
   authors:
       - Andrew R. McCluskey*
