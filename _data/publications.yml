@@ -375,6 +375,6 @@
   authors:
       - Harry Richardson
       - Josh Dunn
-      - Andrew R. McCluskey
+      - Andrew R. McCluskey*
   arxiv: https://arxiv.org/abs/xxxx.xxxxx
   caption: Extending an existing approach to compute centre of mass with improved accuracy. 
