@@ -346,6 +346,15 @@
   chemrxiv: https://doi.org/10.26434/chemrxiv-2024-c61xt
   paper: https://doi.org/10.1038/s41557-024-01613-x
   caption: A comment on the importance of digital training in the chemistry undergraduate. 
+- title: Investigating model influence on the analytical resolution of neutron reflectometry
+  journal: Preprint
+  year: 2024
+  authors:
+      - Nicolas Shiaelis*
+      - Luke A. Clifton
+      - Andrew R. McCluskey*
+  arxiv: https://arxiv.org/abs/2403.13566
+  caption: Looking at the impact the defining an analytical model has on the analysis of neutron reflecometry. 
 - title: Accurate Estimation of Diffusion Coefficients and their Uncertainties from Computer Simulation
   journal: J. Chem. Theory Comput.
   volume: 21
@@ -360,12 +369,12 @@
   arxiv: https://arxiv.org/abs/2305.18244
   paper: https://doi.org/10.1021/acs.jctc.4c01249
   caption: Using a physics-informed statistical model to efficiently estimate diffusion and accurately quantify uncertainty.
-- title: Investigating model influence on the analytical resolution of neutron reflectometry
+- title: On the Estimation of Centre of Mass in Periodic Systems
   journal: Preprint
-  year: 2024
+  year: 2025
   authors:
-      - Nicolas Shiaelis*
-      - Luke A. Clifton
-      - Andrew R. McCluskey*
-  arxiv: https://arxiv.org/abs/2403.13566
-  caption: Looking at the impact the defining an analytical model has on the analysis of neutron reflecometry. 
+      - Harry Richardson
+      - Josh Dunn
+      - Andrew R. McCluskey
+  arxiv: https://arxiv.org/abs/xxxx.xxxxx
+  caption: Extending an existing approach to compute centre of mass with improved accuracy. 
