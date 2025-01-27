@@ -53,6 +53,7 @@ layout: default
       {% if person.scholar.size > 0 %}<a href="{{ person.scholar }}"><i class="fa-solid fa-graduation-cap fa-fw"></i></a>{% endif %}
       {% if person.office.size > 0 %} | <a href="{{ person.office-link }}">{{ person.office }}</a>{% endif %}
       {% if person.cosupervisors.size > 0 %}<br><small>Co-supervised with {{ person.cosupervisors }}</small>{% endif %}
+      {% if person.supervisors.size > 0 %}<br><small>Actually supervised by {{ person.supervisors }}</small>{% endif %}
     </li>
 
   {% endfor %}
