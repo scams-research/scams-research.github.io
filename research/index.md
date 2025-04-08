@@ -47,6 +47,7 @@ We believe that the next generation of data analysis, using machine learning and
 /_==__==========__==_ooo__ooo=_/'   /___________,"
 
 ```
+<small>Thanks to Archie McLuckie for this fun ASCII-art!</small>
 
 ## Projects
 
