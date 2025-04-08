@@ -27,6 +27,27 @@ However, we believe that significant improvements can be made to the measurement
 The research aim of the {{ site.title }} group is to develop powerful analysis methods for data from chemical measurements, by including what we already know about the world &mdash; some may call this *physics-informed* modelling. 
 We believe that the next generation of data analysis, using machine learning and quantum computing, will be built on an understanding of the fundamental chemistry and physics of the systems of interest. 
 
+```
+             ,----------------,              ,---------,
+        ,-----------------------,          ,"        ,"|
+      ,"                      ,"|        ,"        ,"  |
+     +-----------------------+  |      ,"        ,"    |
+     |  .-----------------.  |  |     +---------+      |
+     |  |                 |  |  |     | -==----'|      |
+     |  |  I LOVE         |  |  |     |         |      |
+     |  |  Molecular      |  |  |/----|`---=    |      |
+     |  |  Dynamics       |  |  |   ,/|==== ooo |      ;
+     |  |                 |  |  |  // |(((( [33]|    ,"
+     |  `-----------------'  |," .;'| |((((     |  ,"
+     +-----------------------+  ;;  | |         |,"     
+        /_)______________(_/  //'   | +---------+
+   ___________________________/___  `,
+  /  oooooooooooooooo  .o.  oooo /,   \,"-----------
+ / ==ooooooooooooooo==.o.  ooo= //   ,`\--{)B     ,"
+/_==__==========__==_ooo__ooo=_/'   /___________,"
+
+```
+
 ## Projects
 
 - [Analytical models from physical models](./analytical_models/)
