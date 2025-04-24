@@ -13,5 +13,5 @@ Recently, we have developed an interest in quasi-elastic neutron scattering as a
 
 ## Relevant Publications
 
-- [^1]: A. R. McCluskey, J. Grant, A. J. Smith, J. L. Rawle, D. J. Barlow, M. J. Lawrence, S. C. Parker, & K. J. Edler. *J. Phys. Comm.*, **3**(7), 31233, 2019. DOI: [10.1088/2399-6528/ab12a9](https://doi.org/10.1088/2399-6528/ab12a9)
-- [^2]: A. R. McCluskey, J. Grant, A. R. Symington, T. Snow, J. Doutch, B. J. Morgan, S. C. Parker, K. J. Edler. *J. Appl. Crystallogr.*, **52**(3), 655, 2019. DOI: [10.1088/2399-6528/ab12a9](https://doi.org/10.1107/S1600576719004333)
+[^1]: A. R. McCluskey, J. Grant, A. J. Smith, J. L. Rawle, D. J. Barlow, M. J. Lawrence, S. C. Parker, & K. J. Edler. *J. Phys. Comm.*, **3**(7), 31233, 2019. DOI: [10.1088/2399-6528/ab12a9](https://doi.org/10.1088/2399-6528/ab12a9)
+[^2]: A. R. McCluskey, J. Grant, A. R. Symington, T. Snow, J. Doutch, B. J. Morgan, S. C. Parker, K. J. Edler. *J. Appl. Crystallogr.*, **52**(3), 655, 2019. DOI: [10.1088/2399-6528/ab12a9](https://doi.org/10.1107/S1600576719004333)
