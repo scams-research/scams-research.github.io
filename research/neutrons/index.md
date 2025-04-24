@@ -16,7 +16,7 @@ Recently, we have developed an interest in quasi-elastic neutron scattering (QEN
 </picture>
 <center>
   <small>
-    The observable in diffusion from molecular dynamics is very similar to the observable from QENS. As noted by [Fern Brady in Taskmaster](https://www.youtube.com/watch?v=1PO9t2QXmiQ). 
+    The observable in diffusion from molecular dynamics is very similar to the observable from QENS. As noted by <a href="https://www.youtube.com/watch?v=1PO9t2QXmiQ">Fern Brady in Taskmaster</a>.
     <br>
     <br>
   </small>
