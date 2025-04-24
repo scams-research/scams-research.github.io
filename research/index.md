@@ -20,12 +20,13 @@ The goal of any data analysis is then to try and reconstruct the physical observ
   </small>
 </center>
 
-There are two ways to improve our estimates less uncertain; improving our measurement or improving our analysis. 
-The former may be achieved experimentally with improved instrumentation or *in-silico* with higher levels of theory. 
-However, we believe that significant improvements can be made to the measurement-analysis workflow by improving how we analyse our data. 
+The SCAMs@bristol group is principally a *method-development* group. 
+We are interested in developing simulation and analysis methods that reduce the information loss in this measurement process. 
+There are, currently, three main areas of research in the group: 
 
-The research aim of the {{ site.title }} group is to develop powerful analysis methods for data from chemical measurements, by including what we already know about the world &mdash; some may call this *physics-informed* modelling. 
-We believe that the next generation of data analysis, using machine learning and quantum computing, will be built on an understanding of the fundamental chemistry and physics of the systems of interest. 
+- [Linking simulation and neutron scattering](./neutrons/)
+- [Understanding diffusion in chemical systems](./diffusion/)
+- [Improving analysis of NMR measurements](./nmr/)
 
 ```
              ,----------------,              ,---------,
@@ -48,9 +49,3 @@ We believe that the next generation of data analysis, using machine learning and
 
 ```
 <small>Thanks to Archie McLuckie for this fun ASCII-art!</small>
-
-## Projects
-
-- [Analytical models from physical models](./analytical_models/)
-- [Harnessing our prior knowledge and combining measurements](./prior/)
-- [Bayesian model selection](./model_selection/)
