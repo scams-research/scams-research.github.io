@@ -9,7 +9,18 @@ We are interested in how simulations can be used to improve the analysis of neut
 
 In the past, we have looked at how different levels of coarse-graining can be used in understanding of surfactant monolayer structure using neutron reflectometry.[^1] 
 At this time, we prepared an open-educational resource to communicate how simulation and elastic neutron/X-ray scattering can be used together.[^2]
-Recently, we have developed an interest in quasi-elastic neutron scattering as a tool to probe [diffusion](./diffusion/) and how classical simulations can be used to improve the fidelity of these measurements. 
+Recently, we have developed an interest in quasi-elastic neutron scattering (QENS) as a tool to probe [diffusion](./diffusion/) and how classical simulations can be used to improve the fidelity of these measurements. 
+
+<picture>
+  <img alt="Fern Brady noting the similarity between the diffusion observable and QENS observable" src="/assets/img/qens.png">
+</picture>
+<center>
+  <small>
+    The observable in diffusion from molecular dynamics is very similar to the observable from QENS. As noted by [Fern Brady in Taskmaster](https://www.youtube.com/watch?v=1PO9t2QXmiQ). 
+    <br>
+    <br>
+  </small>
+</center>
 
 ## Relevant Publications
 
