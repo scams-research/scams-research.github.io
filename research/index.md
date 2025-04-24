@@ -22,11 +22,6 @@ The goal of any data analysis is then to try and reconstruct the physical observ
 
 The SCAMs@bristol group is principally a *method-development* group. 
 We are interested in developing simulation and analysis methods that reduce the information loss in this measurement process. 
-There are, currently, three main areas of research in the group: 
-
-- [Linking simulation and neutron scattering](./neutrons/)
-- [Understanding diffusion in chemical systems](./diffusion/)
-- [Improving analysis of NMR measurements](./nmr/)
 
 ```
              ,----------------,              ,---------,
@@ -49,3 +44,9 @@ There are, currently, three main areas of research in the group:
 
 ```
 <small>Thanks to Archie McLuckie for this fun ASCII-art!</small>
+
+There are, currently, three main areas of research in the group: 
+
+- [Linking simulation and neutron scattering](./neutrons/)
+- [Understanding diffusion in chemical systems](./diffusion/)
+- [Improving analysis of NMR measurements](./nmr/)
