@@ -45,8 +45,9 @@ We are interested in developing simulation and analysis methods that reduce the 
 ```
 <small>Thanks to Archie McLuckie for this fun ASCII-art!</small>
 
-There are, currently, three main areas of research in the group: 
+There are, currently, four (mostly) interlocking areas of research in the group: 
 
+- [Improving accuracy in chemical simulation](./simulation/)
 - [Linking simulation and neutron scattering](./neutrons/)
 - [Understanding diffusion in chemical systems](./diffusion/)
 - [Improving analysis of NMR measurements](./nmr/)
