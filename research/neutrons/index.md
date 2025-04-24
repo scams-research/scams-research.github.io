@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Linking simulation and neutron scattering
+title: Linking Simulation and Neutron Scattering
 ---
 
 Neutron scattering is a valuable technique to probe the structure and dynamics of chemical systems. 
