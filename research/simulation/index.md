@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Improving accuracy in chemical simulation
+title: Improving Accuracy in Chemical Simulation
 ---
 
 Chemical simulation is an essential tool in the physical sciences. 
