@@ -1,4 +1,4 @@
 ---
 layout: default
-title: Understanding diffusion in chemical systems
+title: Understanding Diffusion in Chemical Systems
 ---
