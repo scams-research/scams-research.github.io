@@ -370,7 +370,8 @@
   paper: https://doi.org/10.1021/acs.jctc.4c01249
   caption: Using a physics-informed statistical model to efficiently estimate diffusion and accurately quantify uncertainty.
 - title: On the Estimation of Centre of Mass in Periodic Systems
-  journal: Preprint
+  journal: J. Chem. Phys. 
+  pages: Accepted
   year: 2025
   authors:
       - Harry Richardson
