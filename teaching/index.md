@@ -13,5 +13,5 @@ Andrew is heavily involved in the [Python in Chemistry](https://pythoninchemistr
 ## References
 
 [^1]: A. R. McCluskey. *J. Chem. Educ.*, **100**(11), 4714, 2023. DOI: [10.1021/acs.jchemed.3c00466](https://doi.org/10.1021/acs.jchemed.3c00466).
-[^2]: A. R. McCluskey, M. Rivera, A. S. J. S. Mey, *Nat. Chem.*, **16**(9), 1383, 2024. DOI: [https://doi.org/10.1038/s41557-024-01613-x](10.1038/s41557-024-01613-x)
-[^3]: A. R. McCluskey*, P. Aulin, F. Bolmsten, M. Bertelsen, C. M. C. Lobley, J. Lewis, M. Novelli, C. Somani, A. Stefanov, M. Trajanovski, N. Vaytet, P. K. Willendrup, J.-L. Wynen, S. Yoo, T. Holm Rod*, *Neutron News*, **25**(1), 1, 2024. DOI: [https://doi.org/10.1080/10448632.2024.2331387](10.1080/10448632.2024.2331387)
+[^2]: A. R. McCluskey, M. Rivera, A. S. J. S. Mey, *Nat. Chem.*, **16**(9), 1383, 2024. DOI: [10.1038/s41557-024-01613-x](https://doi.org/10.1038/s41557-024-01613-x)
+[^3]: A. R. McCluskey*, P. Aulin, F. Bolmsten, M. Bertelsen, C. M. C. Lobley, J. Lewis, M. Novelli, C. Somani, A. Stefanov, M. Trajanovski, N. Vaytet, P. K. Willendrup, J.-L. Wynen, S. Yoo, T. Holm Rod*, *Neutron News*, **25**(1), 1, 2024. DOI: [10.1080/10448632.2024.2331387](https://doi.org/10.1080/10448632.2024.2331387)
