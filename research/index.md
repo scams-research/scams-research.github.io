@@ -23,7 +23,7 @@ The goal of any data analysis is then to try and reconstruct the physical observ
 The SCAMs@bristol group is principally a *method-development* group. 
 We are interested in [improving the accuracy of chemical simulation analysis](./simulation/) and using these simulations to [understand neutron scattering measurements](./neutrons/). 
 Bringing neutron scattering and simulation together will present a robust tool to [understand molecular and atomistic diffusion](./diffusion/).
-Alongside the core of our work, we collaborate to use mathematics and data science to [create better analysis approaches](./analysis/)
+Alongside the core of our work, we collaborate to use mathematics and data science to create better analysis approaches/
 
 ```
              ,----------------,              ,---------,
