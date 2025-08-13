@@ -14,7 +14,7 @@ Specifically, we use (quasi-elastic) neutron scattering together with molecular 
 Recently, we have become particularly interested in ideas around collective motion, where the motion of one particle influences others.  
 
 <picture>
-  <img alt=“A bunch of particles with one particle moving in a specific direction and another announcing ‘Wait! We are coming too.’” src=“/assets/img/diffusion.png”>
+  <img src=“/assets/img/diffusion.png” alt=“A bunch of particles with one particle moving in a specific direction and another announcing ‘Wait! We are coming too.’”>
 </picture>
 <center>
   <small>
@@ -31,7 +31,7 @@ To achieve this, we take advantage of interesting and novel topics from maths an
 This topics include Bayesian regression, model selection, and directional statistics. 
 
 <picture>
-  <img alt=“A wizard suggesting that the dark art of the intrinsic mean is necessary for computing centre of mass” src=“/assets/img/wizard.jpg”>
+  <img src=“/assets/img/wizard.jpg” alt=“A wizard suggesting that the dark art of the intrinsic mean is necessary for computing centre of mass”>
 </picture>
 <center>
   <small>
