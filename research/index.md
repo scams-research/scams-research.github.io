@@ -15,7 +15,7 @@ Recently, we have become particularly interested in ideas around collective moti
 
 <center>
   <picture>
-    <img src="/assets/img/diffusion.png" width=50% alt="A bunch of particles with one particle moving in a specific direction and another announcing ‘Wait! We are coming too.’">
+    <img src="/assets/img/diffusion.png" width="50%" alt="A bunch of particles with one particle moving in a specific direction and another announcing ‘Wait! We are coming too.’">
   </picture><br>
   <small>
     Particles may influence each other to affect their motion. 
@@ -32,7 +32,7 @@ This topics include Bayesian regression, model selection, and directional statis
 
 <center>
   <picture>
-    <img src="/assets/img/wizard.jpg" width=80% alt="A wizard suggesting that the dark art of the intrinsic mean is necessary for computing centre of mass">
+    <img src="/assets/img/wizard.jpg" width="80%" alt="A wizard suggesting that the dark art of the intrinsic mean is necessary for computing centre of mass">
   </picture><br>
   <small>
     Some aspects of improving accuracy feel like the dark arts. 
