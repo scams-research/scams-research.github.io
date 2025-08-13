@@ -52,7 +52,7 @@ We work with traditional chemists to take advantage of data science methods to i
 
 <picture>
   <source srcset="/assets/img/noisy_channel.png" media="(prefers-color-scheme: dark)">
-  <img src="/assets/img/noisy_channel_light.png">
+  <img src="/assets/img/noisy_channel_light.png" alt="A graphic of a 'noisy channel' showing a flame being turned by measurement into data (1s and 0s) and then being turns back into a fuzzy representation of the flame by the analysis.">
 </picture>
 <center>
   <small>
