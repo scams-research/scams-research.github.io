@@ -7,7 +7,11 @@ In the SCAMs@bristol group, we try our baest to make interesting and descriptive
 You can see some of these posters below. 
 
 <center>
+
+  {% for post in site.data.posters %}
   <picture>
-    <img src="/assets/img/sscg-poster.pdf" width="100%" alt="A poster describing the methodology behind kinisi.">
+    <a href="{{ post.path }}">
+      <img src="{{ post.path }}" width="100%" alt="{{ post.alt }}">
+    </a>
   </picture><br>
 </center>
