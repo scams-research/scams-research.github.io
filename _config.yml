@@ -26,6 +26,9 @@ sidebar:
   - name: publications
     icon: fa-solid fa-book
     link: /publications/
+  - name: posters
+    icon: fa-solid fa-image
+    link: /posters/
   - name: code
     icon: fa-solid fa-code
     link: /code/
