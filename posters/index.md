@@ -9,9 +9,11 @@ You can see some of these posters below.
 <center>
 
   {% for post in site.data.posters %}
-  <picture>
-    <a href="{{ post.path }}">
-      <img src="{{ post.path }}" width="100%" alt="{{ post.alt }}">
-    </a>
-  </picture><br>
+    <picture>
+      <a href="{{ post.path }}">
+        <img src="{{ post.path }}" width="100%" alt="{{ post.alt }}">
+      </a>
+    </picture><br>
+  {% endfor %}
+  
 </center>
