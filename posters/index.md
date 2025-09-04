@@ -3,7 +3,7 @@ layout: default
 title: Posters
 ---
 
-In the SCAMs@bristol group, we try our baest to make interesting and descriptive posters to present at research meetings. 
+In the SCAMs@bristol group, we try our best to make interesting and descriptive posters to present at research meetings. 
 You can see some of these posters below. 
 
 <center>
