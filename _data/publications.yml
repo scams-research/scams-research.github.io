@@ -394,3 +394,10 @@
       - Jesper Vind
       - Tommy Nylander
   caption: Understanding the enyzmatic digestion of thin films with neutron reflectometry.
+- title: Uncertainty in MD-Derived Diffusion Coefficients Depends on Analysis Protocol, Not Just Simulation Data
+  journal: Submitted
+  year: 2025
+  authors: 
+      - Benjamin J. Morgan
+      - Andrew R. McCluskey
+  caption: A comment on a recent article discussing the analysis of MD simulations. 
