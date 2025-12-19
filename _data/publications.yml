@@ -404,3 +404,11 @@
       - Andrew R. McCluskey*
   caption: A comment on a recent article discussing the analysis of MSD from MD simulations. 
   chemrxiv: https://doi.org/10.26434/chemrxiv-2025-gdbv9-v3
+- title: Bayesian Methods for the Investigation of Temperature-Dependence in Conductivity 
+  journal: Submitted
+  year: 2025
+  authors:
+      - Andrew R. McCluskey*
+      - Samuel W. Coles
+      - Benjamin J. Morgan
+  caption: A tutorial on the use of Bayesian modelling for understanding the temperature dependence of transport properties.
