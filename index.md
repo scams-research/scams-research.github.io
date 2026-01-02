@@ -8,6 +8,7 @@ title: About
 
 Research in the {{ site.title }} group focuses on developing and applying mathematical techniques to understand the motions of atoms and molecules. 
 In particular, we focus on the use of computational simulation and neutron and x-ray scattering methods. 
+This work bridges chemistry and physics with applied mathematics and statistics. 
 We work closely with national and international neutron and x-ray scattering facilities to develop analysis approaches that maximise the information obtained from a scattering experiment. 
 
-We are also keen to collaborate on chemical data analysis projects outside of the scattering domain, so please feel free to [get in touch](./contact/).
+If you are interesting in discussing science with us, please feel free to [get in touch](./contact/).
