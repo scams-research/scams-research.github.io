@@ -3,7 +3,7 @@ layout: default
 title: Teaching
 ---
 
-Andrew teaches in the [School of Chemistry](http://www.bris.ac.uk/chemistry/), in particular, on the [MSc Scientific Computing with Data Science](https://www.bristol.ac.uk/study/postgraduate/2023/sci/msc-scientific-computing-with-data-science) program.
+Andrew teaches in the [School of Chemistry](http://www.bris.ac.uk/chemistry/), in particular, introducing chemistry students to mathematics and computation.
 He is passionate about enabling better data skills in chemistry students.[^1]<sup>,</sup>[^2]
 
 While working at the [Data Management and Software Centre](https://europeanspallationsource.se/data-management-software-centre), Andrew was responsible for the organisation of the [DMSC Summer School](https://indico.esss.lu.se/event/3267/), where he taught about model-dependent analysis of neutron scattering data.[^3] 
