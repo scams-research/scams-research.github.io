@@ -3,7 +3,7 @@ layout: default
 title: Research
 ---
 
-The SCAMs@bristol research group is principally a *method-development* group, working at the interface of chemistry and applied mathematics.
+The SCAMs@bristol research group is principally a *method-development* group, working at the interface of chemistry, physics, and applied mathematics.
 Currently, our work is focused on three (interlocking) areas:
 
 ## Things Moving
