@@ -415,3 +415,15 @@
       - Benjamin J. Morgan
   arxiv: http://arxiv.org/abs/2512.17792
   caption: A tutorial on the use of Bayesian modelling for understanding the temperature dependence of transport properties.
+- title: Lost in Translation: Simulation-Informed Bayesian Inference Improves Understanding of Molecular Motion From Neutron Scattering
+  journal: Preprint
+  year: 2026
+  authors:
+      - Harry Richardson
+      - Kit McColl
+      - Gøran Nilsen
+      - Jeff Armstrong*
+      - Andrew R. McCluskey*
+  esi: https://github.com/scams-research/fitting-qens
+  arxiv: https://arxiv.org/abs/2501.xxxxx
+  caption: Outlining a more informative approach to the fitting of QENS data.
