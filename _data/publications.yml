@@ -398,14 +398,6 @@
       - Tommy Nylander
   paper: https://doi.org/10.1039/D5SM00820D
   caption: Understanding the enyzmatic digestion of thin films with neutron reflectometry.
-- title: Uncertainty in MD-Derived Diffusion Coefficients Depends on Analysis Protocol, Not Just Simulation Data
-  journal: Submitted
-  year: 2025
-  authors: 
-      - Benjamin J. Morgan*
-      - Andrew R. McCluskey*
-  caption: A comment on a recent article discussing the analysis of MSD from MD simulations. 
-  chemrxiv: https://doi.org/10.26434/chemrxiv-2025-gdbv9-v3
 - title: Bayesian Methods for the Investigation of Temperature-Dependence in Conductivity 
   journal: PRX Energy
   pages: Accepted
@@ -418,6 +410,14 @@
   esi: https://github.com/scams-research/model-arrhenius
   paper: https://doi.org/10.1103/nxgq-lmp6
   caption: A tutorial on the use of Bayesian modelling for understanding the temperature dependence of transport properties.
+- title: Uncertainty in MD-Derived Diffusion Coefficients Depends on Analysis Protocol, Not Just Simulation Data
+  journal: Submitted
+  year: 2025
+  authors: 
+      - Benjamin J. Morgan*
+      - Andrew R. McCluskey*
+  caption: A comment on a recent article discussing the analysis of MSD from MD simulations. 
+  chemrxiv: https://doi.org/10.26434/chemrxiv-2025-gdbv9-v3
 - title: "Lost in Translation: Simulation-Informed Bayesian Inference Improves Understanding of Molecular Motion From Neutron Scattering"
   journal: Submitted
   year: 2026
