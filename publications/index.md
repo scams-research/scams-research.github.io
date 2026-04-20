@@ -70,7 +70,9 @@ Here is a list of publication from the SCAMs@bristol group and Andrew.
   <hr>
 {% endfor %}
 
-<center>
-1 | <a href="./10">2</a> | <a href="./20">3</a><br>
-<a href="./10">next</a>
-</center>
+<small>
+     <center>
+          1 | <a href="./10">2</a> | <a href="./20">3</a><br>
+          <a href="./10">next</a>
+     </center>
+</small>
