@@ -1,3 +1,5 @@
+- path: /assets/img/grc-poster.pdf
+  alt: "A poster describing the work of Harry's Lost in Translation paper, presented at the GRC Neutron Scattering conference in 2026."
 - path: /assets/img/molspec-poster.pdf
   alt: A poster showing the use of molecular simulation to inform Bayesian models for the analysis of QENS data, presented at the ISIS Molecular Spectroscopy Science Meeting in 2025. 
 - path: /assets/img/sscg-poster.pdf
