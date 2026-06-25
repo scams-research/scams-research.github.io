@@ -14,12 +14,15 @@
   caption: Outlining a more informative approach to the fitting of QENS data.
 - title: Uncertainty in MD-Derived Diffusion Coefficients Depends on Analysis Protocol, Not Just Simulation Data
   journal: Solid State Ionics
-  pages: Accepted
+  pages: 117249
   year: 2026
+  volume: 444
   authors: 
       - Benjamin J. Morgan*
       - Andrew R. McCluskey*
   caption: A comment on a recent article discussing the analysis of MSD from MD simulations. 
+  paper: https://doi.org/10.1016/j.ssi.2026.117249
+  esi: https://github.com/bjmorgan/data_msd_regression
   chemrxiv: https://doi.org/10.26434/chemrxiv-2025-gdbv9-v3
 - title: Bayesian Methods for the Investigation of Temperature-Dependence in Conductivity 
   journal: PRX Energy
