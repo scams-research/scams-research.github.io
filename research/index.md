@@ -8,7 +8,7 @@ Currently, our work is focused on three (interlocking) areas:
 
 ## Things Moving
 
-We are interested in understanding how and why atoms and molecules move in a chemical system. 
+We are interested in understanding how and why atoms and molecules move in a chemical system, with a particular focus on liquid dyanmics. 
 This involves combining experiment and chemical simulation to probe the atomic and molecular motions. 
 Specifically, we use (quasi-elastic) neutron scattering together with molecular dynamics simulations to produce experimentally-verified molecular movies. 
 Recently, we have become particularly interested in ideas around collective motion, where the motion of one particle influences others.  
