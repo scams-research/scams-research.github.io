@@ -19,6 +19,8 @@ Here is a list of publications from the SCAMs@bristol group and Andrew.
     {% endif %}
     {% if pub.issue.size > 0 %}
         ({{ pub.issue }}), 
+    {% else %}
+        ,
     {% endif %}
     {% if pub.pages.size > 0 %}
     {{ pub.pages }},
