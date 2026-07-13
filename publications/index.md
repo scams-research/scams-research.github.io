@@ -13,9 +13,7 @@ Here is a list of publications from the SCAMs@bristol group and Andrew.
     {{ pub.title }}
   </b><br>
   <small>
-    <i>{{ pub.journal }}</i>{% if pub.volume.size > 0 %}, <b>{{ pub.volume }}</b>{% endif %}
-    {% if pub.issue.size > 0 %}({{ pub.issue }}), {% else %}, {% endif %}
-    {% if pub.pages.size > 0 %}{{ pub.pages }}, {% endif %}{{ pub.year }}&nbsp;
+    <i>{{ pub.journal }}</i>{% if pub.volume.size > 0 %}, <b>{{ pub.volume }}</b>{% endif %}{% if pub.issue.size > 0 %}({{ pub.issue }}), {% else %}, {% endif %}{% if pub.pages.size > 0 %}{{ pub.pages }}, {% endif %}{{ pub.year }}&nbsp;
     {% if pub.paper.size > 0 %}&mdash; <a href="{{ pub.paper }}">Paper</a>{% elsif pub.arxiv.size > 0 %}&mdash; <a href="{{ pub.arxiv }}">arXiv</a>{% elsif pub.chemrxiv.size > 0 %}&mdash; <a href="{{ pub.chemrxiv }}">ChemRxiv</a>{% elsif pub.preprint.size > 0 %}&mdash; <a href="{{ pub.preprint }}">Preprint</a>{% endif %}
     {% if pub.thesis.size > 0 %}
          &mdash; <a href="{{ pub.thesis }}">Thesis</a>
