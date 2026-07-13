@@ -13,9 +13,9 @@ Here is a list of publications from the SCAMs@bristol group and Andrew.
     {{ pub.title }}
   </b><br>
   <small>
-    <i>{{ pub.journal }}</i>, 
+    <i>{{ pub.journal }}</i>
     {% if pub.volume.size > 0 %}
-        <b>{{ pub.volume }}</b>
+        , <b>{{ pub.volume }}</b>
     {% endif %}
     {% if pub.issue.size > 0 %}
         ({{ pub.issue }}), 
