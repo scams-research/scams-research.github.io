@@ -3,6 +3,10 @@
   docs: https://kinisi.readthedocs.io
   description: implements a robust methodology for the quantification of in-silico diffusion.
   doi: 10.21105/joss.05984
+- name: fourierror
+  github: https://github.com/scams-research/fourierror
+  docs: https://scams-research.github.io/fourierror
+  description: enables the propagation of uncertainty through a Fourier transform.
 - name: uravu
   github: https://github.com/arm61/uravu
   docs: https://uravu.readthedocs.io
