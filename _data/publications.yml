@@ -1,3 +1,13 @@
+- title: An Efficient Temperature-Jump Method for the Calculation of Heat Capacities
+  journal: Submitted
+  year: 2026
+  authors:
+      - Josh Dunn
+      - Andrew R. McCluskey
+      - A. Sofia F. Oliveira
+      - Neil L. Allan
+      - Adrian J. Mulholland
+  chemrxiv: https://doi.org/10.26434/chemrxiv.15008407/
 - title: "Lost in Translation: Simulation-Informed Bayesian Inference Improves Understanding of Molecular Motion From Neutron Scattering"
   journal: J. Phys. Chem. Lett.
   pages: 8411
