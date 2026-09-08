@@ -7,7 +7,8 @@
       - A. Sofia F. Oliveira
       - Neil L. Allan
       - Adrian J. Mulholland
-  chemrxiv: https://doi.org/10.26434/chemrxiv.15008407/
+  chemrxiv: https://doi.org/10.26434/chemrxiv.15008407
+  caption: A new non-equilibrium molecular dynamics method for computing heat capacity, validated on TIP3P water.
 - title: "Lost in Translation: Simulation-Informed Bayesian Inference Improves Understanding of Molecular Motion From Neutron Scattering"
   journal: J. Phys. Chem. Lett.
   pages: 8411
