@@ -9,7 +9,7 @@
       - Adrian J. Mulholland
   chemrxiv: https://doi.org/10.26434/chemrxiv.15008407
   caption: A new non-equilibrium molecular dynamics method for computing heat capacity, validated on TIP3P water.
-- title: "Lost in Translation: Simulation-Informed Bayesian Inference Improves Understanding of Molecular Motion From Neutron Scattering"
+- title: "Lost in Translation: Simulation-Informed Bayesian Inference Improves Characterization of Molecular Motion From Neutron Scattering"
   journal: J. Phys. Chem. Lett.
   pages: 8411
   volume: 17
@@ -138,7 +138,7 @@
   journal: Neutron News
   volume: 35
   issue: 1
-  pages: 1
+  pages: 2
   year: 2024
   authors:
       - Andrew R. McCluskey*
@@ -337,8 +337,8 @@
   year: 2020
   authors:
       - Andrew R. McCluskey*
-      - Thomas Arnold
       - Joshanial F. K. Cooper
+      - Thomas Arnold
       - Tim Snow
   paper: https://doi.org/10.1088/2632-2153/ab94c4
   esi: https://github.com/arm61/model_select
