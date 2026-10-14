@@ -178,7 +178,7 @@
   journal: J. Chem. Educ.
   volume: 100
   issue: 11
-  pages: 4714
+  pages: 4174
   year: 2023
   authors:
       - Andrew R. McCluskey*
@@ -187,7 +187,7 @@
   data: https://doi.org/10.5281/zenodo.8227867
   chemrxiv: https://doi.org/10.26434/chemrxiv-2023-44b29-v2
   caption: A commentary questioning the role of linearization in an undergraduate chemistry education.
-- title:  Nature of the Superionic Transition of Lithium Nitride from Machine Learning Force Fields
+- title:  Nature of the Superionic Phase Transition of Lithium Nitride from Machine Learning Force Fields
   journal: Chem. Mater.
   volume: 35
   issue: 15
@@ -313,11 +313,11 @@
   code: https://github.com/fitbenchmarking/fitbenchmarking
   docs: https://fitbenchmarking.readthedocs.io/
   caption: A tool to better understand the use of different optimisation approaches.
-- title: Disordered Filaments Mediate the Fibrillogenesis of Type-I Collagen in Solution
+- title: Disordered Filaments Mediate the Fibrillogenesis of Type I Collagen in Solution
   journal: Biomacromolecules
   volume: 21
   issue: 9
-  pages: 3611
+  pages: 3631
   year: 2020
   authors:
       - Andrew R. McCluskey
@@ -391,7 +391,7 @@
   journal: J. Appl. Crystallogr.
   volume: 52
   issue: 3
-  pages: 655
+  pages: 665
   year: 2019
   authors:
       - Andrew R. McCluskey*
