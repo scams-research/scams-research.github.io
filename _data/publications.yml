@@ -1,10 +1,18 @@
+- title: Numerical and analytical strategies to propagate correlated uncertainties through the discrete Fourier transform 
+  journal: Submitted
+  year: 2026
+  authors: 
+    - Tuguldur Zolzaya
+    - Andrew R. McCluskey*
+  esi: https://github.com/scams-research/fourier-prop
+  caption: Uncertainty propagation through Fourier transforms.
 - title: An Efficient Temperature-Jump Method for the Calculation of Heat Capacities
   journal: Submitted
   year: 2026
   authors:
       - Josh Dunn
       - Andrew R. McCluskey
-      - A. Sofia F. Oliveira
+      - A. Sofia F. Oliveira*
       - Neil L. Allan
       - Adrian J. Mulholland
   chemrxiv: https://doi.org/10.26434/chemrxiv.15008407
